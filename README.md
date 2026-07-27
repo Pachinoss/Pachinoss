@@ -46,7 +46,7 @@ Apasionado por el desarrollo de aplicaciones web y móviles, siempre en constant
 
 <p>
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift"/>
-  <img src="https://raw.githubusercontent.com/Pachinoss/Pachinoss/50efacf826f258217f4b4d9fee19781ae48301ff/xcode-seeklogo.svg" width="55px" height="55px" alt="Xcode"/>
+   <img src="https://raw.githubusercontent.com/Pachinoss/Pachinoss/50efacf826f258217f4b4d9fee19781ae48301ff/xcode-seeklogo.svg" width="55px" height="55px" alt="Xcode"/>
 </p>
 
 ### 🛠 Herramientas
