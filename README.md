@@ -11,16 +11,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
 </p>
 
-- 📫 Social links
-<p>
-	<a href="mailto:joanpabloorozco@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Pachinoss"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/676745829"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/german-orozco-murcia-9b1b4a1b3/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/germanorozcomurcia"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/germanorozcomurcia_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
 <h3 align="center">
 Desarrollador Full Stack en formación | Desarrollo Web · Apps Móviles · Inteligencia Artificial
 </h3>
@@ -28,47 +18,47 @@ Desarrollador Full Stack en formación | Desarrollo Web · Apps Móviles · Inte
 Apasionado por crear aplicaciones web y móviles modernas, aprender nuevas tecnologías y desarrollar soluciones utilizando Inteligencia Artificial.
 </p>
 
- 
-- 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
-- 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
+
+ ## 🚀 Sobre mí
+
+- 💻 Actualmente estudiando **Desarrollo de Aplicaciones Web (DAW)**.
+- 📱 Desarrollando aplicaciones Android con **Kotlin**.
+- 🌐 Creando aplicaciones web completas con **PHP, JavaScript y MySQL**.
+- 🔥 Integrando **Firebase** y **API REST** en proyectos reales.
+- 🤖 Aprendiendo **Prompt Engineering**, **Vibe Coding**, **PRD con IA** y **LLMs**.
+- 📚 Siempre aprendiendo nuevas tecnologías y mejores prácticas.
+
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
+### 📱 Mobile
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,html,css,javascript,php" />
+</p>
 
+### 🛠 Herramientas
 
-#### 🗃 Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white")
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman" />
+</p>
 
+### 🗃 Databases
 
-#### 🖥️ Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mariadb" />
+</p>
 
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-
-#### 📚 Libraries
-
-![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
-
-#### 🔧 Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+## 📫 Social links
+<p>
+	<a href="mailto:joanpabloorozco@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/Pachinoss"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/676745829"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/german-orozco-murcia-9b1b4a1b3/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/germanorozcomurcia"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/germanorozcomurcia_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://t.me/TU_USUARIO"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
+</p>
 
 ## 📊 Profile Statistics
 
@@ -106,34 +96,3 @@ Apasionado por crear aplicaciones web y móviles modernas, aprender nuevas tecno
 [![](https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrahman-Alhamod&show_icons=true&locale=en&layout=compact&theme=radical)]()  
   
  </div>
- 
- ### 🏆 Profile Trophies
-
-<div align=center>
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Abdalrahman-Alhamod&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
----
-
-### 🔗 &nbsp;Contact Me
-
-<div align="center">
-<a href="mailto:abd.alrrahman.alhamod@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/abd-alrrahman-alhamod/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/Abd_Alrhman_Alhamod"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-</div>
-
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
-
----
-
-<h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
-
-------
-
-Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
-
-Last Edited on: 26/02/2025
