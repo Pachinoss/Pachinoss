@@ -15,9 +15,8 @@
 Desarrollador Full Stack en formación | Desarrollo Web · Apps Móviles · Inteligencia Artificial
 </h3>
 <p align="center">
-Apasionado por crear aplicaciones web y móviles modernas, aprender nuevas tecnologías y desarrollar soluciones utilizando Inteligencia Artificial.
+Apasionado por el desarrollo de aplicaciones web y móviles, siempre en constante aprendizaje y comprometido con la creación de soluciones eficientes, escalables y de calidad.
 </p>
-
 
  ## 🚀 Sobre mí
 
@@ -31,16 +30,28 @@ Apasionado por crear aplicaciones web y móviles modernas, aprender nuevas tecno
 
 ## 🛠 &nbsp;Tech Stack
 
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,mysql,firebase" />
+</p>
+
 ### 📱 Mobile
 
 <p>
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift,html,css,javascript,php" />
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift"/><img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Xcode_26_icon.png" width="55px" height="55px" alt="Xcode"/>
 </p>
 
 ### 🛠 Herramientas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,postman,pr,ae"/>
 </p>
 
 ### 🗃 Databases
@@ -60,39 +71,12 @@ Apasionado por crear aplicaciones web y móviles modernas, aprender nuevas tecno
 	<a href="https://t.me/TU_USUARIO"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
-## 📊 Profile Statistics
+## 📈 Objetivo
 
- <div align=center>
+Construir aplicaciones web y móviles escalables, mantener un aprendizaje continuo y especializarme en el desarrollo de software apoyado por Inteligencia Artificial.
 
-![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
+---
 
-</div>
- 
- ### 💳 Github Profile Summary Card
- 
- <div align=center>
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrahman-Alhamod&theme=github_dark)
-  
- </div>
- 
- ### ⏱ Streak Stats
- 
- <div align=center>
-  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abdalrahman-Alhamod&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
- </div>
- 
- ### 📈 Activity Graph
- 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### 📊 Most Used Language
-
- <div align=center>
-  
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Abdalrahman-Alhamod&show_icons=true&locale=en&layout=compact&theme=radical)]()  
-  
- </div>
+<p align="center">
+⭐ Gracias por visitar mi perfil ⭐
+</p>
