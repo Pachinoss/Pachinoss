@@ -18,10 +18,17 @@
 	<a href="https://wa.me/676745829"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/german-orozco-murcia-9b1b4a1b3/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/germanorozcomurcia"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-   <a href="https://www.instagram.com/germanorozcomurcia_/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/germanorozcomurcia_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
+<h3 align="center">
+Desarrollador Full Stack en formación | Desarrollo Web · Apps Móviles · Inteligencia Artificial
+</h3>
+<p align="center">
+Apasionado por crear aplicaciones web y móviles modernas, aprender nuevas tecnologías y desarrollar soluciones utilizando Inteligencia Artificial.
+</p>
 
+ 
 - 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Mobile Application Development, Machine Learning.
 - 🌱 I’m diving deeper into _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and _[AI](https://www.deeplearning.ai/)_
