@@ -69,7 +69,7 @@ Apasionado por el desarrollo de aplicaciones web y móviles, siempre en constant
 	<a href="https://www.linkedin.com/in/german-orozco-murcia-9b1b4a1b3/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/germanorozcomurcia"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/germanorozcomurcia_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://t.me/TU_USUARIO"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
+	<a href="https://t.me/Germax"><img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
 
 ## 📈 Objetivo
