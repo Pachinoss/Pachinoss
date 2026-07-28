@@ -1,9 +1,9 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+	<img width=100% src="https://firebasestorage.googleapis.com/v0/b/imagenes-portafolio-89991.firebasestorage.app/o/Fotos_portafolio%2FChatGPT%20Image%2028%20jul%202026%2C%2011_49_14.png?alt=media&token=1906fcaa-1444-4eb4-9957-eab9164e9883" widht ="250" height ="250"/>
+
 </div>
 
-
-<img width=100% src="https://firebasestorage.googleapis.com/v0/b/imagenes-portafolio-89991.firebasestorage.app/o/Fotos_portafolio%2FChatGPT%20Image%2028%20jul%202026%2C%2011_49_14.png?alt=media&token=1906fcaa-1444-4eb4-9957-eab9164e9883"/>
 
 
 <h3 align="center">
