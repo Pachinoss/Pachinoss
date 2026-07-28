@@ -26,6 +26,8 @@ Apasionado por el desarrollo de aplicaciones web y móviles, siempre en constant
 - 🔥 Integrando **Firebase** y **API REST** en proyectos reales.
 - 🤖 Aprendiendo **Prompt Engineering**, **Vibe Coding**, **PRD con IA** y **LLMs**.
 - 📚 Siempre aprendiendo nuevas tecnologías y mejores prácticas.
+- 	<a href="https://pachinoss.github.io/Portafolio/">Portafolio - Germán Orozco</a>
+
 
 
 ## 🛠 &nbsp;Tech Stack
