@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://firebasestorage.googleapis.com/v0/b/imagenes-portafolio-89991.firebasestorage.app/o/Fotos_portafolio%2Fvideo_full.gif?alt=media&token=63ca7238-c0e8-40d9-890a-1e9c42edfdca"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://firebasestorage.googleapis.com/v0/b/imagenes-portafolio-89991.firebasestorage.app/o/Fotos_portafolio%2Fvideo_full.gif?alt=media&token=63ca7238-c0e8-40d9-890a-1e9c42edfdca"></a>
 </p>
 
 <h3 align="center">
