@@ -1,7 +1,7 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
-   <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-portafolio-89991.firebasestorage.app/o/Fotos_portafolio%2FPrint_Transparent.svg?alt=media&token=5ab98cc7-4067-4aff-826f-f4be7c23c58f" width=100% />
+   <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-portafolio-89991.firebasestorage.app/o/Fotos_portafolio%2FPrint_Transparent.svg?alt=media&token=5ab98cc7-4067-4aff-826f-f4be7c23c58f" width=250 height =250 />
 
 
 <h3 align="center">
