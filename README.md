@@ -1,8 +1,10 @@
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
-   <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-portafolio-89991.firebasestorage.app/o/Fotos_portafolio%2FPrint_Transparent.svg?alt=media&token=5ab98cc7-4067-4aff-826f-f4be7c23c58f" width=250 height =250 />
 
+<p align="center">
+  <a href="https://firebasestorage.googleapis.com/v0/b/imagenes-portafolio-89991.firebasestorage.app/o/Fotos_portafolio%2Fvideo_full.gif?alt=media&token=63ca7238-c0e8-40d9-890a-1e9c42edfdca"></a>
+</p>
 
 <h3 align="center">
   ¡Hola! Soy Pachinoss
