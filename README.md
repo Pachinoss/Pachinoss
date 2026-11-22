@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://firebasestorage.googleapis.com/v0/b/imagenes-portafolio-89991.firebasestorage.app/o/Fotos_portafolio%2FGermaXStudio.gif?alt=media&token=fcbbcb83-fe35-48c0-91f1-bcf58a14fac9"></a>
+  <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-portafolio-89991.firebasestorage.app/o/Fotos_portafolio%2FGermaXStudio.gif?alt=media&token=fcbbcb83-fe35-48c0-91f1-bcf58a14fac9">
 </p>
 
 <h3 align="center">
@@ -12,7 +12,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Web;Desarrollador%20Mobile;Siempre%20aprendiendo%20cosas%20nuevas;Si%C3%A9ntete%20libre%20de%20explorar%20%F0%9F%91%80;%C2%A1Cont%C3%A1ctame%20si%20necesitas%20ayuda!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=480&height=45"></a>
+  <a href="https://pachinoss.github.io/LandingPage-GO/#productos"><img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Web;Desarrollador%20Mobile;Siempre%20aprendiendo%20cosas%20nuevas;Si%C3%A9ntete%20libre%20de%20explorar%20%F0%9F%91%80;%C2%A1Cont%C3%A1ctame%20si%20necesitas%20ayuda!%20%F0%9F%92%AC&font=Fira%20Code&center=true&width=480&height=45"></a>
 </p>
 
 <h3 align="center">
