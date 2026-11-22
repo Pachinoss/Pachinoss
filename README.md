@@ -24,7 +24,7 @@ Apasionado por el desarrollo de aplicaciones web y móviles, siempre en constant
 
  ## 🚀 Sobre mí
 
-- 💻 Actualmente estudiando **Desarrollo de Aplicaciones Web (DAW)**.
+- 💻 Desarrollador Full stack **Desarrollo de Aplicaciones Web (DAW)**.
 - 📱 Desarrollando aplicaciones Android con **Kotlin**.
 - 🌐 Creando aplicaciones web completas con **PHP, JavaScript y MySQL**.
 - 🔥 Integrando **Firebase** y **API REST** en proyectos reales.
