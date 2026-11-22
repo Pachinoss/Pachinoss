@@ -3,7 +3,9 @@
 </div>
 
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-portafolio-89991.firebasestorage.app/o/Fotos_portafolio%2FGermaXStudio.gif?alt=media&token=fcbbcb83-fe35-48c0-91f1-bcf58a14fac9">
+  <a href="https://pachinoss.github.io/LandingPage-GO/#productos">
+    <img src="https://firebasestorage.googleapis.com/v0/b/imagenes-portafolio-89991.firebasestorage.app/o/Fotos_portafolio%2FGermaXStudio.gif?alt=media&amp;token=fcbbcb83-fe35-48c0-91f1-bcf58a14fac9" alt="GermaX|Studio — Ver mi portafolio">
+  </a>
 </p>
 
 <h3 align="center">
